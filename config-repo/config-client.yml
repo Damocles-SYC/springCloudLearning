@@ -8,3 +8,4 @@ eureka:
       defaultZone: http://127.0.0.1:9001/eureka/
       
 test: this is a test message!
+test01: this is a test message01!
